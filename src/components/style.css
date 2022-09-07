@@ -1,0 +1,44 @@
+.card {
+  background-color: rgb(89, 21, 153);
+  width: 200px;
+  height: 250px;
+  margin: 10px;
+  display: flex;
+  color: rgb(219, 203, 203);
+  flex-direction: column;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  border-style: solid;
+  border-width: 15px;
+  border-radius: 5px;
+  border-color: rgb(164, 136, 192);
+}
+.App {
+  margin: 20px 20px 0px 100px;
+  padding: 50px;
+}
+.name {
+  margin-top: 20px;
+}
+.search {
+  display: block;
+  margin: 50px auto 0px;
+  text-align: center;
+  border-style: double;
+  border-width: 5px;
+  height: 20px;
+  width: 250px;
+  background-color: white;
+  color: purple;
+  position: relative;
+  left: -18px;
+  border-radius: 5px;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  background-color: black;
+}
